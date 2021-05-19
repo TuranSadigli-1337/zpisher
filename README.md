@@ -73,7 +73,6 @@ $ docker run --rm -it htrtech/zphisher
 :: İş axını ::
 </h3>
 <p align="center">
-<img src=".imgs/wf.gif"/>
 </p>
 
 ### Xüsusi təşəkkürlər :
