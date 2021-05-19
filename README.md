@@ -88,5 +88,3 @@ $ docker run --rm -it htrtech/zphisher
 ### Məni tapın:
 <p align="left">
   <a href="https://github.com/LasTOmocha" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/lastomocha/" target="_blank">logo=instagram"></a><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=Instagram"></a>
-</p>
