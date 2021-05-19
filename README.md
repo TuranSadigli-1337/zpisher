@@ -23,49 +23,49 @@
 
 ##
 
-### Features
+### Xüsusiyyətləri
 
-- Latest and updated login pages.
-- Mask URL support 
-- Beginners friendly
-- Docker support (checkout `docker-legacy` branch)
-- Multiple tunneling options
+- Son və yenilənmiş giriş səhifələri.
+- Maska URL dəstəyi
+- Başlanğıc dostu
+- Docker dəstəyi (checkout `docker-legacy` filialı)
+- Birdən çox tunel seçimi
   - Localhost
-  - Ngrok (With or without hotspot)
+  - Ngrok (Hotspot ilə və ya olmadan) 
 
 
-### Installation
+### Quraşdırma
 
-- Just, Clone this repository -
+- Sadəcə, bu anbarı klonla -
 ```
 $ git clone git://github.com/htr-tech/zphisher.git
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Klonlaşdırılmış qovluğa keçin və `zphisher.sh` işləyin -
 ```
 $ cd zphisher
 $ bash zphisher.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
+- İlk işə salındıqda, bu asılılıqları quracaq və budur. `Zphisher` quraşdırılıb.
 
-### Run on Docker
+### Docker-da çalışdırın 
 ```
 $ docker pull htrtech/zphisher
 $ docker run --rm -it htrtech/zphisher
 ```
 
-### Dependencies
+### Asılılıqlar
 
-**`Zphisher`** requires following programs to run properly - 
+** `Zphisher` ** düzgün işləməsi üçün aşağıdakı proqramları tələb edir -
 - `php`
 - `wget`
 - `curl`
 - `git`
 
-> All the dependencies will be installed automatically when you run `Zphisher` for the first time.
+> Zphisher-i ilk dəfə çalıştırdığınızda bütün asılılıqlar avtomatik olaraq quraşdırılacaqdır.
 
-> Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali`**, **`Arch Linux/Manjaro`**, **`Fedora`**
+> Dəstəklənən Platforma: ** `Termux` **, **` Ubuntu / Debian / Kali` **, ** `Arch Linux / Manjaro` **, **` Fedora` ** 
 
 ##
 
@@ -76,15 +76,16 @@ $ docker run --rm -it htrtech/zphisher
 <img src=".imgs/wf.gif"/>
 </p>
 
-### Special Thanks :
+### Xüsusi təşəkkürlər :
 
 - [**Aditya Shakya**](https://github.com/adi1090x)
 - [**TheLinuxChoice**](https://twitter.com/linux_choice)
 - [**DarksecDevelopers**](https://github.com/DarksecDevelopers)
 - [**Moises Tapia**](https://github.com/MoisesTapia)
+- [**LasTOmocha**](https://github.com/TuranSadigli)
 
 
-### Find Me on :
+### Məni tapın:
 <p align="left">
   <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/tahmid.rayat" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
