@@ -70,7 +70,7 @@ $ docker run --rm -it htrtech/zphisher
 ##
 
 <h3 align="center">
-:: Workflow ::
+:: İş axını ::
 </h3>
 <p align="center">
 <img src=".imgs/wf.gif"/>
